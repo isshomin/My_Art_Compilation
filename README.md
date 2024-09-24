@@ -30,8 +30,6 @@ Each project includes the full process, from problem analysis and architecture d
 | <div align="center"> 3 </div> | **IPv6 OSPFv3 Routing** | OSPFv3를 이용한 IPv6 동적 라우팅 | IPv6, Dynamic Routing, 네트워크 보안, IpSec | 팀 프로젝트 (4명) | [GitHub](https://github.com/isshomin/OSPFv3_Routing) | <div align="center"> 2024-09-09 <br> ~  <br> 2024-09-13 </div> |
 | <div align="center"> 4 </div> | **Linux_PAM - VM 네트워크 및 보안 강화** | VirtualBox Ubuntu VM 환경에서 네트워크 충돌 방지 및 보안 강화 | Linux, VirtualBox, PAM, 네트워크 설정 | 개인 프로젝트 | [GitHub](https://github.com/isshomin/linux_pam_practice) | <div align="center"> 2024-09-19 </div> |
 | <div align="center"> 5 </div>  | **SmartWorkflow-Crontab-PC-Manager** | Crontab을 이용한 스마트 PC 관리 시스템 | Linux, Crontab, Bash scripting | 팀 프로젝트 (3명) | [GitHub](https://github.com/isshomin/WooriFISA_linux_crontab) | <div align="center"> 2024-09-20 </div> |
-
-
 | <div align="center"> 6 </div>  | **Average Load in Linux** | ELK Stack을 통한 시스템 성능 모니터링 및 부하 테스트 | Linux, Elastic Stack | 팀 프로젝트 (3명) | [GitHub](https://github.com/fisa3Cloud/Average_Load_in_Linux) | <div align="center"> 2024-09-23 </div> |
 
 <br>
