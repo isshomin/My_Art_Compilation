@@ -1,6 +1,6 @@
 # <div align="center"> Projects-Portfolio 👨‍💻</div>
 
-#### <div align="right"> Lately Update: 2024-09-24 </div>
+#### <div align="right"> Lately Update: 2024-10-02 </div>
 
 ---
 
@@ -31,6 +31,9 @@ Each project includes the full process, from problem analysis and architecture d
 | <div align="center"> 4 </div> | **Linux_PAM - VM 네트워크 및 보안 강화** | VirtualBox Ubuntu VM 환경에서 네트워크 충돌 방지 및 보안 강화 | Linux, VirtualBox, PAM, 네트워크 설정 | 개인 프로젝트 | [GitHub](https://github.com/isshomin/linux_pam_practice) | <div align="center"> 2024-09-19 </div> |
 | <div align="center"> 5 </div>  | **SmartWorkflow-Crontab-PC-Manager** | Crontab을 이용한 스마트 PC 관리 시스템 | Linux, Crontab, Bash scripting | 팀 프로젝트 (3명) | [GitHub](https://github.com/isshomin/WooriFISA_linux_crontab) | <div align="center"> 2024-09-20 </div> |
 | <div align="center"> 6 </div>  | **Average Load in Linux** | ELK Stack을 통한 시스템 성능 모니터링 및 부하 테스트 | Linux, Elastic Stack | 팀 프로젝트 (3명) | [GitHub](https://github.com/fisa3Cloud/Average_Load_in_Linux) | <div align="center"> 2024-09-23 </div> |
+| <div align="center"> 7 </div>  | **Secret_Information_Detection_System** | 비밀번호 및 API 키 노출 방지를 위한 자동화 시스템 | Linux, Docker, Trivy, Spring Boot, Slack | 팀 프로젝트 (3명) | [GitHub](https://github.com/fisa3Cloud/Secret_Information_Detection_System) | <div align="center"> 2024-09-25 </div> |
+| <div align="center"> 8 </div>  | **jenkins_auto_deploy** | jenkins와 github hook을 이용한 운영서버 재빌드 시 배포 자동화 | Linux, Docker, Github, Jenkins, Ngrok | 개인 프로젝트 | [GitHub](https://github.com/isshomin/jenkins_auto_deploy) | <div align="center"> 2024-10-01 </div> |
+| <div align="center"> 9 </div>  | **K8s: Load Balancing Deployment** | minikube를 사용해서 로드밸런싱 배포 | Linux, Docker, Minikube | 개인 프로젝트 | [GitHub](https://github.com/isshomin/k8s_deployment) | <div align="center"> 2024-10-02 </div> |
 
 <br>
 
